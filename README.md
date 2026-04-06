@@ -232,33 +232,6 @@ By combining SQL analysis, Python-based data preparation, and Tableau dashboards
 
 ---
 
-## 📁 Project Structure
-Credit-Risk-Intelligence/
-│
-├── analysis/
-│ └── analysis.sql
-│
-├── dashboards/
-│ ├── dashboard_images/
-│ └── tableau_workbook
-│
-├── data/
-│ ├── cleaned_data.zip
-│ └── dirty_data.zip
-│
-├── notebook/
-│ └── CRI_data_cleaning.ipynb
-│
-├── reports/
-│ ├── Executive_Summary.pdf
-│ ├── Full_Project_Report.pdf
-│ └── Presentation.pdf
-│
-└── README.md
-
-
----
-
 ## ✍️ Author
 
 **Faraz Shaikh**  
