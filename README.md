@@ -109,33 +109,6 @@ Four dashboards were developed using **Tableau** to visualize patterns:
 
 ---
 
-## Project Structure
-Credit-Risk-Intelligence/
-│
-├── analysis/
-│ └── analysis.sql
-│
-├── dashboards/
-│ ├── dashboard_images/
-│ └── tableau_workbook
-│
-├── data/
-│ ├── cleaned_data.zip
-│ └── dirty_data.zip
-│
-├── notebook/
-│ └── CRI_data_cleaning.ipynb
-│
-├── reports/
-│ ├── Executive_Summary.pdf
-│ ├── Full_Project_Report.pdf
-│ └── Presentation.pdf
-│
-└── README.md
-
-
----
-
 ## 🛠️ Tools & Technologies Used
 
 - SQL — Data Analysis  
